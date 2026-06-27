@@ -136,7 +136,16 @@
     
 // }
 
+// object
 
+let customer = {
+    name: "Saman",
+    age: 18,
+    isAfterAL: false,
+    salary: 7500.0
+}
+
+console.log(customer);
 
 
 
