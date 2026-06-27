@@ -1,13 +1,28 @@
 // console.log("Hello Java Script");
  
-let name = "Saman";
+// let name = "Saman";
 
-let age = 18;
+// let age = 18;
 
-name = "ranil";
+// name = "ranil";
 
-console.log(name);
-console.log(age);
+// console.log(name);
+// console.log(age);
 
-alert("Hello World");
+// alert("Hello World");
+
+// let name = "Saman";
+// let age = 34;
+// let isAfterAL = false;
+// let customers = {};
+// let salary = 7500.0;
+
+// console.log(typeof salary);
+
+let x = 10;
+let y = "10";
+
+console.log(x===y);
+
+
 
