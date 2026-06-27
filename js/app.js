@@ -19,10 +19,37 @@
 
 // console.log(typeof salary);
 
-let x = 10;
-let y = "10";
+// let x = 10;
+// let y = "10";
 
-console.log(x===y);
+// console.log(x===y);
+
+//  comparison operators
+
+// > | < | >= | <= | == | !=
+// >== | <== | === | !==
+
+
+// let x = 11;
+
+// let y = "11";
+
+// console.log(x===y);
+
+
+// -------------------------------------------
+
+//  logical operators
+
+//  && | || | !
+
+// if (!false) {
+//     console.log("true");
+// } else {
+//     console.log("false");
+// }
+
+
 
 
 
